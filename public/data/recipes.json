@@ -1,0 +1,488 @@
+[
+  {
+    "id": "0001",
+    "name": "Spaghetti Carbonara",
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=800",
+    "ingredients": [
+      "400g spaghetti",
+      "200g pancetta",
+      "4 large eggs",
+      "100g parmesan cheese",
+      "2 cloves garlic",
+      "Black pepper",
+      "Salt"
+    ],
+    "ingredientsCount": "7",
+    "steps": [
+      "Cook spaghetti in salted boiling water until al dente",
+      "Fry pancetta in a pan until crispy",
+      "Beat eggs with grated parmesan and black pepper",
+      "Drain pasta and mix with pancetta, then add egg mixture off heat",
+      "Toss quickly to create creamy sauce without scrambling eggs"
+    ],
+    "time": "25",
+    "difficulty": "Medium",
+    "type": "dinner",
+    "cuisine": "Italian",
+    "description": "A classic Italian pasta dish with a rich, creamy sauce made from eggs, cheese, pancetta, and black pepper.",
+    "nutritionBenefits": "High in protein from eggs and pancetta. Provides carbohydrates for energy and calcium from parmesan cheese."
+  },
+  {
+    "id": "0002",
+    "name": "Chicken Tikka Masala",
+    "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=800",
+    "ingredients": [
+      "500g chicken breast",
+      "200ml heavy cream",
+      "400g canned tomatoes",
+      "2 onions",
+      "4 cloves garlic",
+      "1 inch ginger",
+      "2 tbsp garam masala",
+      "1 tbsp turmeric",
+      "Coriander leaves"
+    ],
+    "ingredientsCount": "9",
+    "steps": [
+      "Marinate chicken in yogurt and spices for 30 minutes",
+      "Grill or pan-fry chicken pieces until cooked",
+      "Sauté onions, garlic, and ginger until soft",
+      "Add spices and tomatoes, cook until thick",
+      "Add cream and chicken, simmer for 10 minutes",
+      "Garnish with coriander"
+    ],
+    "time": "45",
+    "difficulty": "Medium",
+    "type": "dinner",
+    "cuisine": "Indian",
+    "description": "A popular curry dish featuring tender chicken in a creamy, spiced tomato-based sauce.",
+    "nutritionBenefits": "Rich in protein from chicken. Contains antioxidants from spices like turmeric and provides essential vitamins from tomatoes."
+  },
+  {
+    "id": "0003",
+    "name": "Kung Pao Chicken",
+    "image": "https://images.unsplash.com/photo-1525755662778-989d0524087e?w=800",
+    "ingredients": [
+      "500g chicken breast",
+      "2 bell peppers",
+      "1 cup peanuts",
+      "4 dried red chilies",
+      "3 cloves garlic",
+      "1 inch ginger",
+      "2 tbsp soy sauce",
+      "1 tbsp rice vinegar",
+      "1 tbsp sugar"
+    ],
+    "ingredientsCount": "9",
+    "steps": [
+      "Cut chicken into bite-sized pieces and marinate",
+      "Stir-fry chicken until cooked through",
+      "Add garlic, ginger, and chilies",
+      "Add bell peppers and cook for 2 minutes",
+      "Add sauce mixture and peanuts",
+      "Toss everything together and serve"
+    ],
+    "time": "30",
+    "difficulty": "Medium",
+    "type": "dinner",
+    "cuisine": "Chinese",
+    "description": "A spicy, stir-fried Chinese dish with chicken, peanuts, vegetables, and chili peppers.",
+    "nutritionBenefits": "High protein from chicken. Peanuts provide healthy fats and protein. Bell peppers are rich in vitamin C."
+  },
+  {
+    "id": "0004",
+    "name": "Margherita Pizza",
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800",
+    "ingredients": [
+      "500g pizza dough",
+      "200g mozzarella",
+      "400g canned tomatoes",
+      "Fresh basil",
+      "2 cloves garlic",
+      "Olive oil",
+      "Salt"
+    ],
+    "ingredientsCount": "7",
+    "steps": [
+      "Preheat oven to 475°F",
+      "Roll out pizza dough on baking sheet",
+      "Spread tomato sauce over dough",
+      "Add sliced mozzarella evenly",
+      "Drizzle with olive oil",
+      "Bake for 12-15 minutes until crust is golden",
+      "Top with fresh basil"
+    ],
+    "time": "20",
+    "difficulty": "Easy",
+    "type": "dinner",
+    "cuisine": "Italian",
+    "description": "A classic Italian pizza with fresh tomatoes, mozzarella, and basil on a thin crust.",
+    "nutritionBenefits": "Provides carbohydrates from dough. Mozzarella offers calcium and protein. Tomatoes are rich in lycopene."
+  },
+  {
+    "id": "0005",
+    "name": "Butter Chicken",
+    "image": "https://plus.unsplash.com/premium_photo-1669742928112-19364a33b530?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YnV0dGVyJTIwY2hpa2VufGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
+    "ingredients": [
+      "500g chicken",
+      "100g butter",
+      "200ml heavy cream",
+      "400g tomatoes",
+      "2 onions",
+      "Spice mix",
+      "Ginger garlic paste",
+      "Coriander"
+    ],
+    "ingredientsCount": "8",
+    "steps": [
+      "Marinate chicken in yogurt and spices",
+      "Grill chicken pieces",
+      "Cook onions until golden",
+      "Add tomatoes and spices",
+      "Blend to smooth sauce",
+      "Add butter, cream, and chicken",
+      "Simmer until flavors meld"
+    ],
+    "time": "50",
+    "difficulty": "Medium",
+    "type": "dinner",
+    "cuisine": "Indian",
+    "description": "Creamy, mildly spiced curry with tender chicken in a rich tomato and butter sauce.",
+    "nutritionBenefits": "High protein from chicken. Healthy fats from butter. Cream adds calcium and vitamins."
+  },
+  {
+    "id": "0006",
+    "name": "Sweet and Sour Pork",
+    "image": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=800",
+    "ingredients": [
+      "500g pork tenderloin",
+      "1 bell pepper",
+      "1 onion",
+      "1 pineapple",
+      "3 tbsp ketchup",
+      "2 tbsp vinegar",
+      "2 tbsp sugar",
+      "Soy sauce"
+    ],
+    "ingredientsCount": "8",
+    "steps": [
+      "Cut pork into cubes and coat with cornstarch",
+      "Deep fry until golden and crispy",
+      "Sauté vegetables",
+      "Add pineapple chunks",
+      "Prepare sweet and sour sauce",
+      "Combine everything and toss"
+    ],
+    "time": "35",
+    "difficulty": "Medium",
+    "type": "dinner",
+    "cuisine": "Chinese",
+    "description": "A popular Chinese dish featuring crispy fried pork with a tangy sweet and sour sauce.",
+    "nutritionBenefits": "Good source of protein from pork. Bell peppers provide vitamin C. Pineapple adds vitamin C and fiber."
+  },
+  {
+    "id": "0007",
+    "name": "Eggs Benedict",
+    "image": "https://images.unsplash.com/photo-1598214886806-c87b84b7078b?w=800",
+    "ingredients": [
+      "4 eggs",
+      "4 English muffins",
+      "8 slices Canadian bacon",
+      "4 egg yolks",
+      "100g butter",
+      "Lemon juice",
+      "White vinegar",
+      "Paprika"
+    ],
+    "ingredientsCount": "8",
+    "steps": [
+      "Poach eggs in simmering water with vinegar",
+      "Toast English muffins",
+      "Fry Canadian bacon",
+      "Make hollandaise sauce with egg yolks and butter",
+      "Assemble: muffin, bacon, poached egg",
+      "Top with hollandaise and paprika"
+    ],
+    "time": "30",
+    "difficulty": "Hard",
+    "type": "breakfast",
+    "cuisine": "American",
+    "description": "A classic brunch dish with poached eggs, Canadian bacon, and hollandaise sauce on English muffins.",
+    "nutritionBenefits": "High in protein from eggs. Provides healthy fats. Good source of B vitamins."
+  },
+  {
+    "id": "0008",
+    "name": "French Toast",
+    "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800",
+    "ingredients": [
+      "6 slices bread",
+      "3 eggs",
+      "1 cup milk",
+      "1 tsp vanilla",
+      "1 tsp cinnamon",
+      "2 tbsp butter",
+      "Maple syrup"
+    ],
+    "ingredientsCount": "7",
+    "steps": [
+      "Whisk eggs, milk, vanilla, and cinnamon",
+      "Dip bread slices in mixture",
+      "Fry in butter until golden brown",
+      "Flip and cook other side",
+      "Serve with maple syrup"
+    ],
+    "time": "15",
+    "difficulty": "Easy",
+    "type": "breakfast",
+    "cuisine": "American",
+    "description": "A sweet breakfast treat made by dipping bread in an egg mixture and frying until golden.",
+    "nutritionBenefits": "Provides carbohydrates for energy. Eggs add protein. Cinnamon has antioxidant properties."
+  },
+  {
+    "id": "0009",
+    "name": "Tiramisu",
+    "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=800",
+    "ingredients": [
+      "250g mascarpone",
+      "3 eggs",
+      "200g ladyfingers",
+      "300ml espresso",
+      "2 tbsp cocoa powder",
+      "3 tbsp sugar",
+      "Dark rum"
+    ],
+    "ingredientsCount": "7",
+    "steps": [
+      "Separate eggs and beat yolks with sugar",
+      "Mix in mascarpone",
+      "Beat whites to stiff peaks and fold in",
+      "Dip ladyfingers in coffee",
+      "Layer ladyfingers and mascarpone mixture",
+      "Refrigerate for 4 hours",
+      "Dust with cocoa before serving"
+    ],
+    "time": "30",
+    "difficulty": "Medium",
+    "type": "dessert",
+    "cuisine": "Italian",
+    "description": "A classic Italian dessert with coffee-soaked ladyfingers and creamy mascarpone.",
+    "nutritionBenefits": "Provides calcium from mascarpone. Eggs offer protein. Moderate caffeine from espresso."
+  },
+  {
+    "id": "0010",
+    "name": "Gulab Jamun",
+    "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=800",
+    "ingredients": [
+      "200g khoya",
+      "50g flour",
+      "1 tsp baking powder",
+      "200g sugar",
+      "2 cups water",
+      "Cardamom",
+      "Saffron",
+      "Rose water"
+    ],
+    "ingredientsCount": "8",
+    "steps": [
+      "Mix khoya, flour, and baking powder",
+      "Knead into smooth dough",
+      "Shape into small balls",
+      "Deep fry until golden brown",
+      "Make sugar syrup with cardamom and saffron",
+      "Soak fried balls in warm syrup",
+      "Serve warm or chilled"
+    ],
+    "time": "40",
+    "difficulty": "Medium",
+    "type": "dessert",
+    "cuisine": "Indian",
+    "description": "Sweet milk-based dumplings soaked in a fragrant sugar syrup, a beloved Indian dessert.",
+    "nutritionBenefits": "Provides energy from sugar. Khoya offers calcium. Cardamom aids digestion."
+  },
+  {
+    "id": "0011",
+    "name": "Chocolate Chip Cookies",
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=800",
+    "ingredients": [
+      "200g flour",
+      "100g butter",
+      "100g brown sugar",
+      "50g white sugar",
+      "1 egg",
+      "1 tsp vanilla",
+      "200g chocolate chips",
+      "1 tsp baking soda"
+    ],
+    "ingredientsCount": "8",
+    "steps": [
+      "Cream butter and sugars",
+      "Add egg and vanilla",
+      "Mix in flour and baking soda",
+      "Fold in chocolate chips",
+      "Drop spoonfuls on baking sheet",
+      "Bake at 375°F for 10-12 minutes",
+      "Cool on wire rack"
+    ],
+    "time": "25",
+    "difficulty": "Easy",
+    "type": "snack",
+    "cuisine": "American",
+    "description": "Classic homemade cookies loaded with chocolate chips, perfect for any time of day.",
+    "nutritionBenefits": "Provides quick energy. Chocolate contains antioxidants. Moderate protein from eggs."
+  },
+  {
+    "id": "0012",
+    "name": "Caesar Salad",
+    "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=800",
+    "ingredients": [
+      "1 head romaine lettuce",
+      "100g parmesan",
+      "2 cloves garlic",
+      "3 anchovies",
+      "2 egg yolks",
+      "Olive oil",
+      "Lemon juice",
+      "Croutons"
+    ],
+    "ingredientsCount": "8",
+    "steps": [
+      "Wash and chop romaine lettuce",
+      "Make caesar dressing with anchovies, garlic, egg yolks",
+      "Whisk in olive oil and lemon juice",
+      "Add parmesan to dressing",
+      "Toss lettuce with dressing",
+      "Top with croutons and more parmesan"
+    ],
+    "time": "20",
+    "difficulty": "Easy",
+    "type": "lunch",
+    "cuisine": "American",
+    "description": "A crisp, refreshing salad with romaine lettuce, creamy caesar dressing, and crunchy croutons.",
+    "nutritionBenefits": "Low in calories. High in vitamins from lettuce. Protein from anchovies and eggs."
+  },
+  {
+    "id": "0013",
+    "name": "Pad Thai",
+    "image": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=800",
+    "ingredients": [
+      "200g rice noodles",
+      "200g shrimp",
+      "2 eggs",
+      "Bean sprouts",
+      "Peanuts",
+      "Lime",
+      "Fish sauce",
+      "Tamarind paste",
+      "Sugar"
+    ],
+    "ingredientsCount": "9",
+    "steps": [
+      "Soak rice noodles until soft",
+      "Prepare pad thai sauce",
+      "Stir-fry shrimp until cooked",
+      "Push aside, scramble eggs",
+      "Add noodles and sauce",
+      "Toss everything together",
+      "Add bean sprouts and peanuts",
+      "Serve with lime wedges"
+    ],
+    "time": "25",
+    "difficulty": "Medium",
+    "type": "dinner",
+    "cuisine": "Thai",
+    "description": "A popular Thai stir-fried noodle dish with a perfect balance of sweet, sour, and savory flavors.",
+    "nutritionBenefits": "Good source of protein from shrimp. Provides carbohydrates from noodles. Peanuts add healthy fats."
+  },
+  {
+    "id": "0014",
+    "name": "Tom Kha Gai",
+    "image": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800",
+    "ingredients": [
+      "500g chicken",
+      "400ml coconut milk",
+      "2 cups chicken broth",
+      "2 stalks lemongrass",
+      "4 kaffir lime leaves",
+      "Galangal",
+      "Chili peppers",
+      "Fish sauce",
+      "Lime juice"
+    ],
+    "ingredientsCount": "9",
+    "steps": [
+      "Simmer lemongrass, galangal, and lime leaves in broth",
+      "Add coconut milk",
+      "Add chicken and cook until tender",
+      "Season with fish sauce and lime juice",
+      "Add chili peppers",
+      "Garnish with cilantro"
+    ],
+    "time": "30",
+    "difficulty": "Easy",
+    "type": "dinner",
+    "cuisine": "Thai",
+    "description": "A fragrant Thai coconut soup with chicken, lemongrass, and aromatic herbs.",
+    "nutritionBenefits": "High protein from chicken. Coconut milk provides healthy fats. Rich in vitamins from herbs."
+  },
+  {
+    "id": "0015",
+    "name": "Chicken Fajitas",
+    "image": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=800",
+    "ingredients": [
+      "500g chicken breast",
+      "3 bell peppers",
+      "2 onions",
+      "8 tortillas",
+      "Lime",
+      "Cumin",
+      "Chili powder",
+      "Garlic",
+      "Sour cream"
+    ],
+    "ingredientsCount": "9",
+    "steps": [
+      "Slice chicken into strips and marinate",
+      "Cook chicken until done",
+      "Sauté peppers and onions",
+      "Combine chicken and vegetables",
+      "Warm tortillas",
+      "Serve with lime, sour cream, and salsa"
+    ],
+    "time": "35",
+    "difficulty": "Easy",
+    "type": "dinner",
+    "cuisine": "Mexican",
+    "description": "Sizzling strips of seasoned chicken with peppers and onions, served in warm tortillas.",
+    "nutritionBenefits": "High protein from chicken. Bell peppers provide vitamin C. Whole grain tortillas offer fiber."
+  },
+  {
+    "id": "0016",
+    "name": "Guacamole",
+    "image": "https://plus.unsplash.com/premium_photo-1681406689584-2f7612fa98a4?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8R3VhY2Ftb2xlfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
+    "ingredients": [
+      "4 avocados",
+      "1 tomato",
+      "1 onion",
+      "2 jalapeños",
+      "Cilantro",
+      "Lime juice",
+      "Salt",
+      "Garlic"
+    ],
+    "ingredientsCount": "8",
+    "steps": [
+      "Mash avocados",
+      "Dice tomato and onion",
+      "Mince jalapeños and garlic",
+      "Chop cilantro",
+      "Mix everything together",
+      "Season with lime juice and salt"
+    ],
+    "time": "10",
+    "difficulty": "Easy",
+    "type": "snack",
+    "cuisine": "Mexican",
+    "description": "A fresh, creamy dip made from mashed avocados, perfect with tortilla chips.",
+    "nutritionBenefits": "High in healthy monounsaturated fats. Rich in fiber and potassium. Contains vitamin E."
+  }
+]
